@@ -1,5 +1,6 @@
-# DeepL-api  
-It's a short program to make CSV translation process more easy. You will be able to translate selected columns from your CSV file.     
+# DeepL-for-csv-api
+It's a short program to make CSV translation process more easy. You will be able to translate selected columns from your CSV file.  Its using DeepL API (so you need your DeepL key).
+
   
   
 Example of using:   
